@@ -15,9 +15,9 @@ import { generateUserStatsCard } from './statsCard.js';
 const activeGames = new Set();
 
 const PREFIX = '.';
-const APIRONE_WALLET_ID = "ltc-bb633167fce888ecf62ab6ec9b810b7b";
-const APIRONE_TRANSFER_KEY = "IewC1rcEeTM9HINmrQkbjLN31ByzXBtP";
-const BOT_TOKEN = "MTQxOTE5NTMzMjQ2OTk4MTIwNw.Gzfvey.TU334TZokfm0LO27CFfDYmFZgpt3PZerEX_mrQ";
+const APIRONE_WALLET_ID = "";
+const APIRONE_TRANSFER_KEY = "";
+const BOT_TOKEN = "";
 const SCAN_INTERVAL_MS = 60000;
 const LOGS_CHANNEL_ID = '1419261447875330108'; // Winning notifications
 const WITHDRAWAL_CHANNEL_ID = '1419261447875330108'; // Withdrawal notifications
